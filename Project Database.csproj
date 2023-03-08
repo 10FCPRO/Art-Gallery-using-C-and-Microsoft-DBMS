@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Project_Database</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SqlConnection" Version="1.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Artists\adArtist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Artists\addArtists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Artists\deleteArtist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Artists\modifyArtists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,48 @@
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\Project Database.exe
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\Project Database.deps.json
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\Project Database.runtimeconfig.json
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\Project Database.dll
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\Project Database.pdb
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.csproj.AssemblyReference.cache
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.adHome.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.csproj.GenerateResource.cache
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.AssemblyInfoInputs.cache
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.AssemblyInfo.cs
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.csproj.CoreCompileInputs.cache
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.dll
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\refint\Project Database.dll
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.pdb
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.genruntimeconfig.cache
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\ref\Project Database.dll
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.adCustomers.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.adOrders.resources
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\SQLConnection.dll
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\coola\source\repos\Project Database\Project Database\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project Database.csproj.CopyComplete
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.modifyArtworks.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.adArtwork.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.deleteArtwork.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Customers.ModifyCustomers.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Customers.deleteCustomer.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.addArtists.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.deleteArtist.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.modifyArtists.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.addArtwork.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.CustomersPages.Homepage.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\customerlogin.Login.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\customerlogin.Register.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.CustomersPages.Orders.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.CustomersPages.Shop.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Artist.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Employee.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Employees.addEmployees.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Employees.modifyEmployees.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Employees.deleteEmployees.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Orders.addOrders.resources
+C:\Users\coola\source\repos\Project Database\Project Database\obj\Debug\net6.0-windows\Project_Database.Orders.deleteOrders.resources
